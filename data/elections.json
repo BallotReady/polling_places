@@ -6,6 +6,12 @@
     "election_day": "2019-11-05"
   },
   {
+    "id": 521,
+    "name": "Mississippi General Election",
+    "path": "data/MS/521.json",
+    "election_day": "2019-11-05"
+  },
+  {
     "id": 616,
     "name": "Texas General Election",
     "path": "data/TX/616.json",
