@@ -1,5 +1,11 @@
 [
   {
+    "id": 424,
+    "name": "Kentucky General Election",
+    "path": "data/KY/424.json",
+    "election_day": "2019-11-05"
+  },
+  {
     "id": 616,
     "name": "Texas General Election",
     "path": "data/TX/616.json",
