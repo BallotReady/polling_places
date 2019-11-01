@@ -3,24 +3,28 @@
     "id": 424,
     "name": "Kentucky General Election",
     "path": "data/KY/424.json",
+    "state": "KY",
     "election_day": "2019-11-05"
   },
   {
     "id": 521,
     "name": "Mississippi General Election",
     "path": "data/MS/521.json",
+    "state": "MS",
     "election_day": "2019-11-05"
   },
   {
     "id": 616,
     "name": "Texas General Election",
     "path": "data/TX/616.json",
+    "state": "TX",
     "election_day": "2019-11-05"
   },
   {
     "id": 622,
     "name": "Virginia General Election",
     "path": "data/VA/622.json",
+    "state": "VA",
     "election_day": "2019-11-05"
   }
 ]
