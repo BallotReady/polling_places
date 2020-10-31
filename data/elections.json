@@ -1,5 +1,96 @@
 [
   {
+    "id": 120,
+    "name": "Arizona General Election",
+    "path": "data/AZ/120.json",
+    "state": "AZ",
+    "election_day": "2020-11-03"
+  },
+  {
+    "id": 127,
+    "name": "Florida General Election",
+    "path": "data/FL/127.json",
+    "state": "FL",
+    "election_day": "2020-11-03"
+  },
+  {
+    "id": 128,
+    "name": "Georgia General Election",
+    "path": "data/GA/128.json",
+    "state": "GA",
+    "election_day": "2020-11-03"
+  },
+  {
+    "id": 133,
+    "name": "Iowa General Election",
+    "path": "data/IA/133.json",
+    "state": "IA",
+    "election_day": "2020-11-03"
+  },
+  {
+    "id": 136,
+    "name": "Louisiana State Primary and Presidential General Election",
+    "path": "data/LA/136.json",
+    "state": "LA",
+    "election_day": "2020-11-03"
+  },
+  {
+    "id": 137,
+    "name": "Maine General Election",
+    "path": "data/ME/137.json",
+    "state": "ME",
+    "election_day": "2020-11-03"
+  },
+  {
+    "id": 140,
+    "name": "Michigan General Election",
+    "path": "data/MI/140.json",
+    "state": "MI",
+    "election_day": "2020-11-03"
+  },
+  {
+    "id": 141,
+    "name": "Minnesota General Election",
+    "path": "data/MN/141.json",
+    "state": "MN",
+    "election_day": "2020-11-03"
+  },
+  {
+    "id": 151,
+    "name": "North Carolina General Election",
+    "path": "data/NC/151.json",
+    "state": "NC",
+    "election_day": "2020-11-03"
+  },
+  {
+    "id": 153,
+    "name": "Ohio General Election",
+    "path": "data/OH/153.json",
+    "state": "OH",
+    "election_day": "2020-11-03"
+  },
+  {
+    "id": 156,
+    "name": "Pennsylvania General Election",
+    "path": "data/PA/156.json",
+    "state": "PA",
+    "election_day": "2020-11-03"
+  },
+  {
+    "id": 161,
+    "name": "Texas General Election",
+    "path": "data/TX/161.json",
+    "state": "TX",
+    "election_day": "2020-11-03"
+  },
+  {
+    "id": 167,
+    "name": "Wisconsin General Election",
+    "path": "data/WI/167.json",
+    "state": "WI",
+    "election_day": "2020-11-03"
+  },
+  {
     "id": 424,
     "name": "Kentucky General Election",
     "path": "data/KY/424.json",
